@@ -30,6 +30,8 @@ Learning Go from many great resources that you can find and learn for free on Yo
 
 - [[EN] Playlist: cm (Rust) (Tsoding Daily)](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VaMLIZWykFodq4xNvqGoYmO)
 
+- [[EN] Playlist: Easy Rust: bite-sized Rust tutorials (mithradates)](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+
 ### Thai Language
 
 - [[TH] Video: ภาษา Rust คือ อะไร? (Niwat Kaewkert)](https://www.youtube.com/watch?v=tQLUfsEZfFM)
@@ -39,6 +41,10 @@ Learning Go from many great resources that you can find and learn for free on Yo
 - [[TH] Playlist: Rust Programming Language (Cumming soon)](https://www.youtube.com/playlist?list=PLiVVfnY4ieNoacRsIQtD-0oSVyC0XC-KJ)
 
 - [[TH] Playlist: Rust Lang Live (KubeOps Skills)](https://www.youtube.com/playlist?list=PLWApnCxWplk7nuxEI3mwiAcg6DdjS9QU_)
+
+### Korean Language
+
+- [[KR] Playlist: Easy Rust Korean / 한국어판 (mithradates)](https://www.youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE)
 
 ## Tips & Tricks
 
