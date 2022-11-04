@@ -38,6 +38,8 @@ Learning Go from many great resources that you can find and learn for free on Yo
 
 - [[TH] Playlist: Rust Programming Language (Cumming soon)](https://www.youtube.com/playlist?list=PLiVVfnY4ieNoacRsIQtD-0oSVyC0XC-KJ)
 
+- [[TH] Playlist: Rust Lang Live (KubeOps Skills)](https://www.youtube.com/playlist?list=PLWApnCxWplk7nuxEI3mwiAcg6DdjS9QU_)
+
 ## Tips & Tricks
 
 ## How to run
