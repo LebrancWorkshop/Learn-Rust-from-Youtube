@@ -1,13 +1,13 @@
 # n: new rust project. 
 n:
-	./new.sh $(r)
+	sh new.sh $(r)
 
 # r: run rust project. 
 r:
-	./main.sh $(r)
+	sh main.sh $(r)
 
 # c: check rust project. 
 c:
-	./check.sh $(r)
+	sh check.sh $(r)
 
 .PHONY: n r c
