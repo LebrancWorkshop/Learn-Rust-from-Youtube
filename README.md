@@ -10,6 +10,8 @@ Learning Go from many great resources that you can find and learn for free on Yo
 
 - [[CS Knowledge] Language - Rust (POOM YIMYUEAN)](https://www.youtube.com/playlist?list=PL4gb8oBUMvan04jx76rLKhKPYDdM3eQX7)
 
+- [rust-learning (Github: ctjhoa)](https://github.com/ctjhoa/rust-learning)
+
 ### English Language
 
 - [[EN] Playlist: RUST PROGRAMMING TUTORIALS (dcode)](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
