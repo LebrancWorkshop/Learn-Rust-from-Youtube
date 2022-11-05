@@ -34,6 +34,8 @@ Learning Go from many great resources that you can find and learn for free on Yo
 
 - [[EN] Playlist: Easy Rust: bite-sized Rust tutorials (mithradates)](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
 
+- [[EN] E-Book: easy_rust (Github: Dhjhomon)](https://dhghomon.github.io/easy_rust)
+
 ### Thai Language
 
 - [[TH] Video: ภาษา Rust คือ อะไร? (Niwat Kaewkert)](https://www.youtube.com/watch?v=tQLUfsEZfFM)
