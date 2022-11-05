@@ -3,6 +3,9 @@
 
 /**
  * Output:
+ *  Formula: Integer Range: -2^(n-1) to (2^n) - 1; n is bit amount. (e.g. i8 => integer with 8 bits). 
+ * Formula: Unsigend Interger Range: 0 to (2^n) - 1; n is bit amount. (e.g. u16 => unsigned integer with 16 bits).
+ * 
         Min Integer 8 bits: -128
         Max Integer 8 bits: 127
 
