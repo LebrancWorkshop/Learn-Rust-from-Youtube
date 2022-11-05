@@ -17,8 +17,17 @@ macro_rules! names {
     };
 }
 
+macro_rules! forloop {
+    ($($startnum:expr, $endnum:expr)) => {
+        for i in $startnum..$endnum+1 {
+            println!("{}", i);
+        }
+    }
+}
+
 fn main() {
    haiya!("You don\'t use MSG. What is this? What is this?");
    fuiyoh!("You use Galangal, Only White People use Ginger.");
-   names!("Alex", "Amin", "Rory"); //<- Error: variable 'name' is still repeating at this depth. 
+   //names!("Alex", "Amin", "Rory"); //<- Error: variable 'name' is still repeating at this depth. 
+   forloop!(1, 10);
 }
